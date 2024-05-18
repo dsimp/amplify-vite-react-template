@@ -38,7 +38,7 @@ function App() {
             <button onClick={signOut}>Sign out</button>
           </ul>
           <div>
-            🥳 Try creating a new todo.
+            🥳 Try creating a new todo!
             <br />
             <a href="https://docs.amplify.aws/react/start/quickstart/#make-frontend-updates">
               Review next step of this tutorial!
